@@ -1,6 +1,7 @@
 ## Hi there 👋
-STU_ID:3221928
-Name:Luo Yifan
+STU_ID:3221928<br>
+Name:Luo Yifan<br>
+Email:yifanluo@LN.hk<br>
 
 <!--
 **luoyifan520/luoyifan520** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
